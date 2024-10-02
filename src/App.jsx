@@ -6,7 +6,11 @@ import ActivityFetch from './components/ActivityFetch'
 function App() {
   return (
     <div>
+      {/* Actividad 27 Sept 2024 - Consumo de APIS  */}
       <ActivityFetch />
+
+      {/* Actividad Semana 2 - api-rest-usage */}
+      {/* <CatGalleryFetch /> */}
     </div>
   )
 }
